@@ -1,12 +1,12 @@
-# 💻 Zeus59 | Web-Developer & Code-Enthusiast
+# 💻 Zeus59 | Web Developer & Code Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zeus59&style=flat-square&color=blueviolet)
 
-## 👨‍💻 Über mich
+## 👨‍💻 About Me
 
-Hey, ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Web-Technologien. Ich liebe es, digitale Tools zu bauen, die das Leben einfacher machen. Von Audio-Tools wie meinem SoundCloud Downloader bis hin zu anderen nützlichen Web-Apps - ich bringe Ideen zum Leben.
+Hey there! I'm a passionate developer focused on modern web technologies. I love building digital tools that make life easier. From audio utilities like my SoundCloud Downloader to other useful web apps - I bring ideas to life through code.
 
-## 🔧 Tech-Stack
+## 🔧 Tech Stack
 
 ```
 Frontend:
@@ -15,32 +15,32 @@ Frontend:
   🧩 React 
   🖌️ SASS/SCSS
 
-Tools & Mehr:
+Tools & More:
   🔄 Git & GitHub
   📦 npm/yarn
   🧰 VSCode
   🌐 RESTful APIs
 ```
 
-## 🚀 Aktuelle Projekte
+## 🚀 Current Projects
 
-- **[SoundCloud Downloader](https://github.com/Zeus59/soundcloud-downloader)** - Ein Tool zum Herunterladen deiner Lieblings-Tracks von SoundCloud
-- **[Projekt 2]** - Kurze Beschreibung
-- **[Projekt 3]** - Kurze Beschreibung
+- **[SoundCloud Downloader](https://github.com/Zeus59/soundcloud-downloader)** - A tool to download your favorite tracks from SoundCloud
+- **[Project 2]** - Brief description
+- **[Project 3]** - Brief description
 
 ## 📊 GitHub Stats
 
 ![Zeus59's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeus59&show_icons=true&theme=synthwave)
 
-## 📫 Kontakt
+## 📫 Contact
 
-- 📧 [Email](mailto:deine-email@domain.com)
-- 💼 [LinkedIn](https://linkedin.com/in/dein-profil)
-- 🌐 [Portfolio](https://deine-website.de)
+- 📧 [Email](mailto:your-email@domain.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 [Portfolio](https://your-website.com)
 
 ---
 
-> "Guter Code ist wie eine gute Netzwerk-Verbindung - meist unsichtbar, aber wenn er fehlt, merkst du es sofort." 
+> "Good code is like a good network connection - mostly invisible, but you notice immediately when it's missing."
 <!---
 Zeus59/Zeus59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -25,6 +25,8 @@ Tools & More:
 ## 🚀 Current Projects
 
 - **[Serhiivka Mortar Calculator](https://github.com/Zeus59/Serhiivka-Mortar-Calculator)**
+- **[Youtuber Advanced](https://github.com/bbraunfels/yt-dlp-gui)**
+- **[Kakashi Hakate Discord Bot](https://github.com/Zeus59/Kakashi-Hatake)**
 
 ## 📊 GitHub Stats
 

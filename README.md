@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm a passionate developer focused on modern web technologies. I love building digital tools that make life easier. From audio utilities like my SoundCloud Downloader to other useful web apps - I bring ideas to life through code.
+Hey there! I'm a passionate developer focused on modern web technologies. I love building digital tools that make life easier. - I bring ideas to life through code.
 
 ## 🔧 Tech Stack
 
@@ -24,19 +24,11 @@ Tools & More:
 
 ## 🚀 Current Projects
 
-- **[SoundCloud Downloader](https://github.com/Zeus59/soundcloud-downloader)** - A tool to download your favorite tracks from SoundCloud
-- **[Project 2]** - Brief description
-- **[Project 3]** - Brief description
+- **[Serhiivka Mortar Calculator](https://github.com/Zeus59/Serhiivka-Mortar-Calculator)**
 
 ## 📊 GitHub Stats
 
 ![Zeus59's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeus59&show_icons=true&theme=synthwave)
-
-## 📫 Contact
-
-- 📧 [Email](mailto:your-email@domain.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-website.com)
 
 ---
 

@@ -28,7 +28,6 @@ Tools & More:
 
 ---
 
-> "Good code is like a good network connection - mostly invisible, but you notice immediately when it's missing."
 <!---
 Zeus59/Zeus59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

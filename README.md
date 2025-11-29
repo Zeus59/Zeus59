@@ -25,9 +25,6 @@ Tools & More:
 - **[Youtuber Advanced](https://github.com/bbraunfels/yt-dlp-gui)**
 - **[Kakashi Hakate Discord Bot](https://github.com/Zeus59/Kakashi-Hatake)**
 
-## 📊 GitHub Stats
-
-![Zeus59's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeus59&show_icons=true&theme=synthwave)
 
 ---
 

@@ -2,9 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zeus59&style=flat-square&color=blueviolet)
 
-## 👨‍💻 About Me
-
-Hey there! I'm a passionate developer focused on modern web technologies. I love building digital tools that make life easier. - I bring ideas to life through code.
 
 ## 🔧 Tech Stack
 

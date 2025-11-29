@@ -1,4 +1,4 @@
-# 💻 Zeus59 | Web Developer & Code Enthusiast
+# 💻 Web Developer & Code Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zeus59&style=flat-square&color=blueviolet)
 

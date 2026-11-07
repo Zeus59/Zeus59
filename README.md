@@ -1,4 +1,4 @@
-```markdown
+
 # ⚡ Systems, Tooling & Game Infrastructure Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zeus59&style=flat-square&color=blueviolet)
